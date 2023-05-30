@@ -72,7 +72,7 @@ Get an overview of the Nodejs Exemplar Service and its purpose in building scala
 
 
 
-## Big Title Amit
+## Big title Amit
 
 This tests links in Github markdown.
 
